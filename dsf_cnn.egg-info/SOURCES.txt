@@ -1,5 +1,6 @@
 README.md
 setup.py
+dsf_cnn/__init__.py
 dsf_cnn.egg-info/PKG-INFO
 dsf_cnn.egg-info/SOURCES.txt
 dsf_cnn.egg-info/dependency_links.txt
