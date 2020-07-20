@@ -4,3 +4,7 @@ dsf_cnn.egg-info/PKG-INFO
 dsf_cnn.egg-info/SOURCES.txt
 dsf_cnn.egg-info/dependency_links.txt
 dsf_cnn.egg-info/top_level.txt
+dsf_cnn.egg-info/.ipynb_checkpoints/PKG-INFO-checkpoint
+dsf_cnn.egg-info/.ipynb_checkpoints/SOURCES-checkpoint.txt
+dsf_cnn.egg-info/.ipynb_checkpoints/dependency_links-checkpoint.txt
+dsf_cnn.egg-info/.ipynb_checkpoints/top_level-checkpoint.txt

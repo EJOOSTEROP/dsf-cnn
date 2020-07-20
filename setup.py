@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="dsf-cnn", # Replace with your own username
+    name="dsf_cnn", # Replace with your own username
     version="0.0.1",
     author="Simon Graham",
     author_email="simon_graham@hotmail.co.uk",
